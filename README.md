@@ -12,7 +12,3 @@ It covers fundamental and advanced algorithmic concepts — from sorting and sea
 **Semester:** 3  
 **Language Used:** C++ (mainly)   
 **Author:** [Your Name]
-
----
-
-## 🗂️ Repository Structure
