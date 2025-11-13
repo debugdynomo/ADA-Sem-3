@@ -11,4 +11,4 @@ It covers fundamental and advanced algorithmic concepts — from sorting and sea
 **Course Name:** Analysis and Design of Algorithms (ADA)  
 **Semester:** 3  
 **Language Used:** C++ (mainly)   
-**Author:** [Your Name]
+**Author:** vasam vishnu teja
